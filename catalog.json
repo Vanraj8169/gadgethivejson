@@ -72,7 +72,7 @@
       "image": "https://images.samsung.com/is/image/samsung/p6pim/za/galaxy-s21/gallery/za-clear-cover-galaxy-s21-5g-ef-qg991ttegww-363168624?$720_576_PNG$",
       "description": "The Galaxy S21 is a high-end smartphone from Samsung, featuring a 6.2-inch Dynamic AMOLED 2X display with a resolution of 2400x1080 pixels. It is powered by the Exynos 2100 or Qualcomm Snapdragon 888 processor (depending on region) and comes with 8GB of RAM."
     },
-{
+    {
       "id": 9,
       "name": "Apple Watch",
       "desc": "Apple Watch Ultra GPS + Cellular",
@@ -81,7 +81,7 @@
       "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1668269939/Croma%20Assets/Communication/Wearable%20Devices/Images/262092_0_yqcpck.png/mxw_1920,f_auto",
       "description": "The Apple Watch is a smartwatch that offers advanced features such as health and fitness tracking, notifications, GPS, and cellular connectivity. It comes in a variety of styles and materials, and offers a wide range of apps and watch faces to customize your experience."
     },
-{
+    {
       "id": 10,
       "name": "Samsung Galaxy Watch 5",
       "desc": "Smartwatch with Activity Tracker",
@@ -90,7 +90,7 @@
       "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1675187965/Croma%20Assets/Communication/Wearable%20Devices/Images/260624_0_clwrr1.png/mxw_1920,f_auto",
       "description": "The Samsung Galaxy Watch is a smartwatch that offers advanced features such as fitness tracking, smartphone notifications, and Samsung Pay. It comes in a variety of styles and sizes, and offers a long battery life and a wide range of apps to customize your experience."
     },
-{
+    {
       "id": 11,
       "name": "Gaming Mouse",
       "desc": "ambrane Trone Wired Gaming Mouse",
@@ -99,7 +99,7 @@
       "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1681405917/Croma%20Assets/Computers%20Peripherals/Computer%20Accessories%20and%20Tablets%20Accessories/Images/267190_0_ye8svi.png/mxw_1920,f_auto",
       "description": "A gaming mouse is designed for gamers and offers features such as programmable buttons, adjustable DPI, and customizable RGB lighting. "
     },
-{
+    {
       "id": 12,
       "name": "S128 Folding Mini Drone",
       "desc": "Mini Drone with Dual Camera",
@@ -108,7 +108,7 @@
       "image": "https://sc04.alicdn.com/kf/H5391fcfd5c504c49ba1cbd15000719bcB.jpg",
       "description": "A mini drone is a small and portable remote-controlled drone that can fit in the palm of your hand. It offers features such as a built-in camera, altitude hold, and automatic obstacle avoidance"
     },
-{
+    {
       "id": 13,
       "name": "GoPro Pole Mount",
       "desc": "GoPro Camera 360 Degree Rotation",
@@ -117,7 +117,7 @@
       "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1672390197/Croma%20Assets/Imaging/Camera%20Accessories/Images/201781_0_xojacg.png/mxw_1920,f_auto",
       "description": "A GoPro camera is a compact and rugged camera designed for capturing action-packed moments. It offers features such as high-quality video and photo capabilities, waterproof design, and advanced features like HyperSmooth stabilization and TimeWarp "
     },
-{
+    {
       "id": 14,
       "name": "Pocket Tripod",
       "desc": "Hama Pocket Rotation Mini Tripod",
@@ -126,7 +126,7 @@
       "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1672390452/Croma%20Assets/Imaging/Camera%20Accessories/Images/252775_0_xkvics.png/mxw_1920,f_auto",
       "description": "A tripod is a three-legged stand that provides stability for a camera or other device. It's designed to keep the device steady and prevent camera shake during photography or video recording, and allows for precise framing and composition."
     },
-{
+    {
       "id": 15,
       "name": "Google Home Mini",
       "desc": "Google Nest Assistant Wifi Speaker",
@@ -135,7 +135,7 @@
       "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1675869085/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/221146_0_zuxjpv.png/mxw_1920,f_auto",
       "description": "Google Nest Mini is a voice-activated smart speaker powered by Google Assistant. It allows you to control your smart home devices, play music, ask questions, and get news and weather updates hands-free, simply by using your voice."
     },
-{
+    {
       "id": 16,
       "name": "Virtual Reality Handset",
       "desc": "HTC VIVE Pro Virtual Reality Handset",
@@ -144,7 +144,7 @@
       "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1637322339/Croma%20Assets/Entertainment/Media%20Streaming%20Devices/Images/244110_rdwoyz.png/mxw_1920,f_auto",
       "description": "A virtual reality headset is a device that allows you to immerse yourself in a simulated environment using VR technology."
     },
-{
+    {
       "id": 17,
       "name": "HP Pavillion x360",
       "desc": "HP Pavillion TouchScreen Laptop",
@@ -153,7 +153,7 @@
       "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1666277581/Croma%20Assets/Computers%20Peripherals/Tablets%20and%20iPads/Images/257191_14_swffs3.png/mxw_1920,f_auto",
       "description": "A foldable HP laptop is a highly portable and versatile device that can be folded in multiple ways, allowing it to function as both a laptop and a tablet. It offers features such as touch screen display, stylus support, and powerful processors."
     },
-{
+    {
       "id": 18,
       "name": "Apple iPad",
       "desc": "Apple iPad Air 5th Generation",
@@ -162,7 +162,7 @@
       "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1667451024/Croma%20Assets/Computers%20Peripherals/Tablets%20and%20iPads/Images/264354_3_cypjus.png/mxw_1920,f_auto",
       "description": "The Apple iPad 5th Gen is a powerful tablet that offers a 9.7-inch Retina display, A9 chip, 8-megapixel camera, and support for Apple Pencil. It provides a fast and fluid user experience, making it perfect for work, education, and entertainment."
     },
-{
+    {
       "id": 19,
       "name": "Bluetooth Speaker",
       "desc": "Chroma 60W Bluetooth Party Speaker",
@@ -171,7 +171,7 @@
       "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1673527158/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/250738_p6txsk.png/mxw_1920,f_auto",
       "description": "The Razer Chroma Bluetooth Speaker is a compact and portable speaker that offers 16.8 million customizable colors and immersive 360-degree sound for an unparalleled audio experience."
     },
-{
+    {
       "id": 20,
       "name": "boAt Airdopes 131 Pro",
       "desc": "TWS Earbuds",
@@ -179,6 +179,276 @@
       "color": "#7c95eb",
       "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1663946283/Croma%20Assets/Communication/Headphones%20and%20Earphones/Images/261789_gidsqx.png/mxw_1920,f_auto",
       "description": "The boAt Airdopes 131 Pro is a pair of wireless earbuds that offer powerful 13mm drivers, IPX4 water resistance, and up to 15 hours of total playback time with the charging case. It also features touch controls for easy access to music, calls, and voice assistants."
+    },
+    {
+      "id": 21,
+      "name": "Samsung Galaxy Watch 4",
+      "desc": "Samsung smartwatch with Google Wear OS",
+      "price": 249,
+      "color": "#7c95eb",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1675181097/Croma%20Assets/Communication/Wearable%20Devices/Images/242907_0_bytsa3.png/mxw_1024,f_auto",
+      "description": "The Samsung Galaxy Watch 4 is a stylish and functional smartwatch that runs on Google Wear OS. It offers advanced health and fitness tracking, GPS, and a range of apps and widgets to keep you connected on the go."
+    },
+    {
+      "id": 22,
+      "name": "Dell XPS 13",
+      "desc": "Dell ultrabook with 11th gen Intel Core processors",
+      "price": 1399,
+      "color": "#7c95eb",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1662785011/Croma%20Assets/Computers%20Peripherals/Laptop/Images/260849_dlntf6.png/mxw_1024,f_auto",
+      "description": "The Dell XPS 13 is a sleek and powerful ultrabook that features 11th generation Intel Core processors, up to 16GB of RAM, and a stunning 13.4-inch InfinityEdge display with 4K resolution. It's perfect for work or play on the go."
+    },
+    {
+      "id": 23,
+      "name": "Bose QuietComfort 45",
+      "desc": "Bose noise-cancelling headphones with voice assistants",
+      "price": 329,
+      "color": "#7c95eb",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1674044786/Croma%20Assets/Communication/Headphones%20and%20Earphones/Images/250472_0_yyz45g.png/mxw_1024,f_auto",
+      "description": "The Bose QuietComfort 45 are wireless noise-cancelling headphones that offer advanced noise cancelling technology, up to 24 hours of battery life, and built-in voice assistants. They're perfect for work or travel, with a comfortable and durable design."
+    },
+    {
+      "id": 24,
+      "name": "Sony A7 IV",
+      "desc": "Sony mirrorless camera with 33MP sensor",
+      "price": 2499,
+      "color": "#7c95eb",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1670426861/Croma%20Assets/Imaging/Camera%20and%20Camcorders/Images/215153_0_srvxxq.png/mxw_1024,f_auto",
+      "description": "The Sony A7 IV is a high-end mirrorless camera that features a 33MP full-frame sensor, advanced autofocus, and 4K video capabilities. It's perfect for professional photographers and videographers who demand the best performance and image quality."
+    },
+    {
+      "id": 25,
+      "name": "Microsoft Surface Laptop 4",
+      "desc": "Microsoft ultrabook with AMD Ryzen processors",
+      "price": 999,
+      "color": "#7c95eb",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1666277576/Croma%20Assets/Computers%20Peripherals/Tablets%20and%20iPads/Images/257191_13_y9xkai.png/mxw_1920,f_auto",
+      "description": "The Microsoft Surface Laptop 4 is a powerful and stylish ultrabook that features AMD Ryzen processors, up to 16GB of RAM, and a stunning 13.5-inch PixelSense touchscreen display. It's perfect for work or play on the go."
+    },
+    {
+      "id": 26,
+      "name": "Nvidia GeForce RTX 3080 Ti",
+      "desc": "Nvidia graphics card for high-end gaming",
+      "price": 1199,
+      "color": "#7c95eb",
+      "image": "https://www.nvidia.com/content/dam/en-zz/Solutions/shop/1532541-gf-web-dmo-graphics-cards-3090-594x308.png",
+      "description": "The Nvidia GeForce RTX 3080 Ti is a high-end graphics card that offers advanced ray tracing and DLSS technology, 12GB of GDDR6X memory, and stunning 4K gaming performance. It's perfect for serious gamers who demand the best performance and image quality."
+    },
+    {
+      "id": 27,
+      "name": "Fitbit Charge 5",
+      "desc": "Fitness tracker with advanced health monitoring",
+      "price": 179,
+      "color": "#7c95eb",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1605331557/Croma%20Assets/Communication/Wearable%20Devices/Images/8974928576542.png/mxw_1024,f_auto",
+      "description": "The Fitbit Charge 5 is a high-end fitness tracker that offers advanced health monitoring features, including ECG and skin temperature sensors. It also features up to 7 days of battery life, GPS tracking, and personalized workout guidance."
+    },
+    {
+      "id": 28,
+      "name": "Amazon Echo Show 15",
+      "desc": "Alexa-enabled smart display with 15-inch touchscreen",
+      "price": 319,
+      "color": "#7c95eb",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1677049478/Croma%20Assets/Small%20Appliances/Smart%20Home%20Devices/Images/269863_s0iqr5.png/mxw_1024,f_auto",
+      "description": "The Amazon Echo Show 15 is a large smart display with a 15-inch touchscreen and built-in Alexa voice assistant. It offers video calling, streaming, and smart home control, making it the perfect addition to any home or office."
+    },
+    {
+      "id": 29,
+      "name": "Samsung Galaxy Tab S8",
+      "desc": "Samsung tablet with 11-inch Super AMOLED display",
+      "price": 799,
+      "color": "#7c95eb",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1667848645/Croma%20Assets/Computers%20Peripherals/Tablets%20and%20iPads/Images/248923_0_canzvf.png/mxw_1024,f_auto",
+      "description": "The Samsung Galaxy Tab S8 is a high-end tablet that features an 11-inch Super AMOLED display, 5G connectivity, and up to 1TB of storage. It also offers a powerful Qualcomm Snapdragon processor and S Pen support for note-taking and drawing."
+    },
+    {
+      "id": 30,
+      "name": "Breville Barista Pro",
+      "desc": "Espresso machine with built-in grinder",
+      "price": 799,
+      "color": "#7c95eb",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1663837718/Croma%20Assets/Small%20Appliances/Food%20Preparation%20App/Images/225092_0_uahc49.png/mxw_1024,f_auto",
+      "description": "The Breville Barista Pro is a high-end espresso machine that features a built-in grinder, advanced temperature control, and automatic milk frothing. It's perfect for coffee enthusiasts who demand the best taste and quality in every cup."
+    },
+    {
+      "id": 31,
+      "name": "Garmin Forerunner 955",
+      "desc": "GPS running watch with advanced workout features",
+      "price": 699,
+      "color": "#7c95eb",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1666207667/Croma%20Assets/Communication/Wearable%20Devices/Images/263471_3_hgvr1h.png/mxw_1024,f_auto",
+      "description": "The Garmin Forerunner 955 is a high-end GPS running watch that offers advanced workout features, including VO2 max, training load, and recovery time. It also features up to 2 weeks of battery life, music storage, and smart notifications."
+    },
+    {
+      "id": 32,
+      "name": "Apple TV 4K (2021)",
+      "desc": "Apple streaming device with 4K HDR",
+      "price": 179,
+      "color": "#7c95eb",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1667818940/Croma%20Assets/Entertainment/Media%20Streaming%20Devices/Images/264291_saypvz.png/mxw_1024,f_auto",
+      "description": "The Apple TV 4K (2021) is a high-end streaming device that offers 4K HDR and Dolby Vision video, as well as access to Apple TV+, Netflix, and other popular streaming services. It also features Siri voice control and HomeKit compatibility."
+    },
+    {
+      "id": 33,
+      "name": "Logitech MX Master 3",
+      "desc": "Wireless mouse with advanced ergonomic design",
+      "price": 99,
+      "color": "#7c95eb",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1681404219/Croma%20Assets/Computers%20Peripherals/Computer%20Accessories%20and%20Tablets%20Accessories/Images/258454_0_rmm57f.png/mxw_1024,f_auto",
+      "description": "The Logitech MX Master 3 is a high-end wireless mouse that features an advanced ergonomic design, advanced tracking technology, and customizable buttons."
+    },
+    {
+      "id": 34,
+      "name": "Sony WH-1000XM4",
+      "desc": "Wireless noise-canceling headphones",
+      "price": 349,
+      "color": "#7c95eb",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1605269510/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/8797817864222.png/mxw_1024,f_auto",
+      "description": "The Sony WH-1000XM4 are high-end wireless noise-canceling headphones with industry-leading noise-canceling technology. They offer up to 30 hours of battery life, touch controls, and support for high-quality audio codecs like LDAC."
+    },
+    {
+      "id": 35,
+      "name": "DJI Mavic 3",
+      "desc": "Professional-grade drone with 8K camera",
+      "price": 2499,
+      "color": "#7c95eb",
+      "image": "https://stormsend1.djicdn.com/tpc/uploads/spu/cover/5e41e7a3caed3fe35ada2822224f94a8@retina_small.png",
+      "description": "The DJI Mavic 3 is a professional-grade drone with an 8K camera, 3-axis gimbal, and up to 46 minutes of flight time. It features obstacle avoidance sensors, intelligent flight modes, and 4-directional obstacle sensing."
+    },
+    {
+      "id": 36,
+      "name": "Microsoft Surface Laptop 4",
+      "desc": "Ultra-thin laptop with touchscreen display",
+      "price": 999,
+      "color": "#7c95eb",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1666277576/Croma%20Assets/Computers%20Peripherals/Tablets%20and%20iPads/Images/257191_13_y9xkai.png/mxw_1920,f_auto",
+      "description": "The Microsoft Surface Laptop 4 is an ultra-thin laptop with a touchscreen display, up to 19 hours of battery life, and powerful Intel or AMD processors. It also features a comfortable keyboard and a sleek, stylish design."
+    },
+    {
+      "id": 37,
+      "name": "Samsung Galaxy S22 Ultra",
+      "desc": "Samsung flagship smartphone with 108MP camera",
+      "price": 1299,
+      "color": "#7c95eb",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1662439540/Croma%20Assets/Communication/Mobiles/Images/248910_le7z4e.png/mxw_1024,f_auto",
+      "description": "The Samsung Galaxy S22 Ultra is a flagship smartphone with a 108MP camera, 5G connectivity, and a large, vibrant display. It features a powerful Exynos processor, up to 12GB of RAM, and up to 1TB of storage."
+    },
+    {
+      "id": 38,
+      "name": "Canon EOS R3",
+      "desc": "Professional-grade mirrorless camera",
+      "price": 5999,
+      "color": "#7c95eb",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1674797659/Croma%20Assets/Imaging/Camera%20and%20Camcorders/Images/267969_rylsvi.png/mxw_1024,f_auto",
+      "description": "The Canon EOS R3 is a professional-grade mirrorless camera with a 24.1MP sensor, advanced autofocus, and 6K RAW video recording capabilities. It features dual memory card slots, weather sealing, and a built-in vertical grip."
+    },
+    {
+      "id": 39,
+      "name": "Sony PlayStation 5",
+      "desc": "Next-gen gaming console with 4K graphics",
+      "price": 499,
+      "color": "#7c95eb",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1675760265/Croma%20Assets/Gaming/Gaming%20Consoles/Images/267452_ipcrdh.png/mxw_1024,f_auto",
+      "description": "The Sony PlayStation 5 is a next-generation gaming console that offers 4K graphics, lightning-fast load times, and immersive haptic feedback. It also features a built-in 825GB SSD and support for backward compatibility with many PS4 games."
+    },
+    {
+      "id": 40,
+      "name": "Apple MacBook Pro 16-inch (2021)",
+      "desc": "Powerful laptop with M1 Pro or M1 Max chip",
+      "price": 2499,
+      "color": "#7c95eb",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1664412987/Croma%20Assets/Computers%20Peripherals/Laptop/Images/256606_0_t9riu8.png/mxw_1024,f_auto",
+      "description": "The Apple MacBook Pro 16-inch (2021) is a powerful laptop with a choice of M1 Pro or M1 Max chip, up to 64GB of RAM, and up to 8TB of storage. It features a stunning Retina display, immersive audio, and a redesigned keyboard and Touch Bar."
+    },
+    {
+      "id": 41,
+      "name": "Fitbit Charge 5",
+      "desc": "Advanced fitness tracker with built-in GPS",
+      "price": 179,
+      "color": "#7c95eb",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1675176887/Croma%20Assets/Communication/Wearable%20Devices/Images/233718_0_wag1ix.png/mxw_1024,f_auto",
+      "description": "The Fitbit Charge 5 is an advanced fitness tracker that features built-in GPS, a heart rate monitor, and up to 7 days of battery life. It also includes advanced sleep tracking, on-wrist temperature monitoring, and a color touchscreen display."
+    },
+    {
+      "id": 42,
+      "name": "Bose QuietComfort Earbuds",
+      "desc": "Wireless earbuds with noise-canceling technology",
+      "price": 279,
+      "color": "#7c95eb",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1605271535/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/8991748030494.png/mxw_1024,f_auto",
+      "description": "The Bose QuietComfort Earbuds are wireless earbuds with noise-canceling technology and up to 6 hours of battery life. They feature touch controls, IPX4 water resistance, and a comfortable, secure fit."
+    },
+    {
+      "id": 43,
+      "name": "Samsung Odyssey G7",
+      "desc": "Curved gaming monitor with 240Hz refresh rate",
+      "price": 799,
+      "color": "#7c95eb",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1631783851/Croma%20Assets/Computers%20Peripherals/Monitor/Images/242198_tyncz3.png/mxw_1024,f_auto",
+      "description": "The Samsung Odyssey G7 is a curved gaming monitor with a 240Hz refresh rate, 1ms response time, and QLED technology. It features a 1000R curve for an immersive gaming experience and G-Sync compatibility for tear-free gaming."
+    },
+    {
+      "id": 44,
+      "name": "GoPro HERO10 Black",
+      "desc": "Action camera with HyperSmooth 4.0 stabilization",
+      "price": 499,
+      "color": "#7c95eb",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1670425933/Croma%20Assets/Imaging/Camera%20and%20Camcorders/Images/245216_0_lx8nyh.png/mxw_1024,f_auto",
+      "description": "The GoPro HERO10 Black is an action camera with HyperSmooth 4.0 stabilization, up to 5.3K video resolution, and up to 240fps slow-motion video. It also features TimeWarp 3.0, SuperPhoto with improved HDR, and a waterproof design."
+    },
+    {
+      "id": 45,
+      "name": "Lenovo ThinkPad X1 Carbon",
+      "desc": "Business laptop with 11th Gen Intel processors",
+      "price": 1449,
+      "color": "#7c95eb",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1663416344/Croma%20Assets/Computers%20Peripherals/Laptop/Images/252373_0_nwas4k.png/mxw_1024,f_auto",
+      "description": "The Lenovo ThinkPad X1 Carbon is a business laptop with 11th Gen Intel processors, up to 16GB of RAM, and up to 2TB of SSD storage. It features a durable, lightweight design, a 14-inch HDR display, and a built-in webcam cover for enhanced privacy."
+    },
+    {
+      "id": 46,
+      "name": "Sony A7S III",
+      "desc": "Professional-grade mirrorless camera for video",
+      "price": 3499,
+      "color": "#7c95eb",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1637921659/Croma%20Assets/Imaging/Camera%20and%20Camcorders/Images/244230_xmtobp.png/mxw_1024,f_auto",
+      "description": "The Sony A7S III is a professional-grade mirrorless camera designed for video production. It features a 12.1MP sensor, 4K/120fps video recording, and 16-bit RAW output. It also includes advanced autofocus."
+    },
+    {
+      "id": 47,
+      "name": "Apple Watch Series 7",
+      "desc": "Advanced smartwatch with larger display",
+      "price": 399,
+      "color": "#7c95eb",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1668271334/Croma%20Assets/Communication/Wearable%20Devices/Images/262052_0_ibxrul.png/mxw_1024,f_auto",
+      "description": "The Apple Watch Series 7 is an advanced smartwatch with a larger display, improved durability, and faster charging. It includes features like fall detection, heart rate monitoring, and ECG readings."
+    },
+    {
+      "id": 48,
+      "name": "DJI Mavic Air 2S",
+      "desc": "Professional-grade drone with 5.4K video recording",
+      "price": 999,
+      "color": "#7c95eb",
+      "image": "https://stormsend1.djicdn.com/tpc/uploads/spu/cover/5e41e7a3caed3fe35ada2822224f94a8@retina_small.png",
+      "description": "The DJI Mavic Air 2S is a professional-grade drone with 5.4K video recording, 3-axis gimbal stabilization, and up to 31 minutes of flight time. It also features APAS 4.0 obstacle avoidance, ActiveTrack 4.0 subject tracking, and a range of smart features like MasterShots and QuickShots."
+    },
+    {
+      "id": 49,
+      "name": "Logitech G Pro X Wireless",
+      "desc": "Wireless gaming headset with Blue VO!CE technology",
+      "price": 199,
+      "color": "#7c95eb",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1681404986/Croma%20Assets/Computers%20Peripherals/Computer%20Accessories%20and%20Tablets%20Accessories/Images/259523_0_pqxcu7.png/mxw_1024,f_auto",
+      "description": "The Logitech G Pro X Wireless is a wireless gaming headset with Blue VO!CE technology for crystal-clear communication. It features 50mm PRO-G drivers for immersive sound, memory foam earpads for comfort, and a lightweight design for long gaming sessions."
+    },
+    {
+      "id": 50,
+      "name": "Bowers & Wilkins PX7 Carbon Edition",
+      "desc": "Wireless noise-canceling headphones with carbon fiber finish",
+      "price": 399,
+      "color": "#7c95eb",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1624462083/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/235232_ip2k4f.png/mxw_1024,f_auto",
+      "description": "The Bowers & Wilkins PX7 Carbon Edition is a wireless noise-canceling headphones with a carbon fiber finish for a premium look and feel. It features 43mm drivers for rich, detailed sound, up to 30 hours of battery life, and support for high-quality Bluetooth codecs like aptX HD."
     }
   ]
 }
