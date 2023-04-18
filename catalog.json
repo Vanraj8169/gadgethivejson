@@ -71,6 +71,114 @@
       "color": "#7c95eb",
       "image": "https://images.samsung.com/is/image/samsung/p6pim/za/galaxy-s21/gallery/za-clear-cover-galaxy-s21-5g-ef-qg991ttegww-363168624?$720_576_PNG$",
       "description": "The Galaxy S21 is a high-end smartphone from Samsung, featuring a 6.2-inch Dynamic AMOLED 2X display with a resolution of 2400x1080 pixels. It is powered by the Exynos 2100 or Qualcomm Snapdragon 888 processor (depending on region) and comes with 8GB of RAM."
+    },
+{
+      "id": 9,
+      "name": "Apple Watch",
+      "desc": "Apple Watch Ultra GPS + Cellular",
+      "price": 500,
+      "color": "#7c95eb",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1668269939/Croma%20Assets/Communication/Wearable%20Devices/Images/262092_0_yqcpck.png/mxw_1920,f_auto",
+      "description": "The Apple Watch is a smartwatch that offers advanced features such as health and fitness tracking, notifications, GPS, and cellular connectivity. It comes in a variety of styles and materials, and offers a wide range of apps and watch faces to customize your experience."
+    },
+{
+      "id": 10,
+      "name": "Samsung Galaxy Watch 5",
+      "desc": "Smartwatch with Activity Tracker",
+      "price": 599,
+      "color": "#7c95eb",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1675187965/Croma%20Assets/Communication/Wearable%20Devices/Images/260624_0_clwrr1.png/mxw_1920,f_auto",
+      "description": "The Samsung Galaxy Watch is a smartwatch that offers advanced features such as fitness tracking, smartphone notifications, and Samsung Pay. It comes in a variety of styles and sizes, and offers a long battery life and a wide range of apps to customize your experience."
+    },
+{
+      "id": 11,
+      "name": "Gaming Mouse",
+      "desc": "ambrane Trone Wired Gaming Mouse",
+      "price": 19,
+      "color": "#7c95eb",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1681405917/Croma%20Assets/Computers%20Peripherals/Computer%20Accessories%20and%20Tablets%20Accessories/Images/267190_0_ye8svi.png/mxw_1920,f_auto",
+      "description": "A gaming mouse is designed for gamers and offers features such as programmable buttons, adjustable DPI, and customizable RGB lighting. "
+    },
+{
+      "id": 12,
+      "name": "S128 Folding Mini Drone",
+      "desc": "Mini Drone with Dual Camera",
+      "price": 69,
+      "color": "#7c95eb",
+      "image": "https://sc04.alicdn.com/kf/H5391fcfd5c504c49ba1cbd15000719bcB.jpg",
+      "description": "A mini drone is a small and portable remote-controlled drone that can fit in the palm of your hand. It offers features such as a built-in camera, altitude hold, and automatic obstacle avoidance"
+    },
+{
+      "id": 13,
+      "name": "GoPro Pole Mount",
+      "desc": "GoPro Camera 360 Degree Rotation",
+      "price": 199,
+      "color": "#7c95eb",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1672390197/Croma%20Assets/Imaging/Camera%20Accessories/Images/201781_0_xojacg.png/mxw_1920,f_auto",
+      "description": "A GoPro camera is a compact and rugged camera designed for capturing action-packed moments. It offers features such as high-quality video and photo capabilities, waterproof design, and advanced features like HyperSmooth stabilization and TimeWarp "
+    },
+{
+      "id": 14,
+      "name": "Pocket Tripod",
+      "desc": "Hama Pocket Rotation Mini Tripod",
+      "price": 99,
+      "color": "#7c95eb",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1672390452/Croma%20Assets/Imaging/Camera%20Accessories/Images/252775_0_xkvics.png/mxw_1920,f_auto",
+      "description": "A tripod is a three-legged stand that provides stability for a camera or other device. It's designed to keep the device steady and prevent camera shake during photography or video recording, and allows for precise framing and composition."
+    },
+{
+      "id": 15,
+      "name": "Google Home Mini",
+      "desc": "Google Nest Assistant Wifi Speaker",
+      "price": 499,
+      "color": "#7c95eb",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1675869085/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/221146_0_zuxjpv.png/mxw_1920,f_auto",
+      "description": "Google Nest Mini is a voice-activated smart speaker powered by Google Assistant. It allows you to control your smart home devices, play music, ask questions, and get news and weather updates hands-free, simply by using your voice."
+    },
+{
+      "id": 16,
+      "name": "Virtual Reality Handset",
+      "desc": "HTC VIVE Pro Virtual Reality Handset",
+      "price": 1199,
+      "color": "#7c95eb",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1637322339/Croma%20Assets/Entertainment/Media%20Streaming%20Devices/Images/244110_rdwoyz.png/mxw_1920,f_auto",
+      "description": "A virtual reality headset is a device that allows you to immerse yourself in a simulated environment using VR technology."
+    },
+{
+      "id": 17,
+      "name": "HP Pavillion x360",
+      "desc": "HP Pavillion TouchScreen Laptop",
+      "price": 699,
+      "color": "#7c95eb",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1666277581/Croma%20Assets/Computers%20Peripherals/Tablets%20and%20iPads/Images/257191_14_swffs3.png/mxw_1920,f_auto",
+      "description": "A foldable HP laptop is a highly portable and versatile device that can be folded in multiple ways, allowing it to function as both a laptop and a tablet. It offers features such as touch screen display, stylus support, and powerful processors."
+    },
+{
+      "id": 18,
+      "name": "Apple iPad",
+      "desc": "Apple iPad Air 5th Generation",
+      "price": 899,
+      "color": "#7c95eb",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1667451024/Croma%20Assets/Computers%20Peripherals/Tablets%20and%20iPads/Images/264354_3_cypjus.png/mxw_1920,f_auto",
+      "description": "The Apple iPad 5th Gen is a powerful tablet that offers a 9.7-inch Retina display, A9 chip, 8-megapixel camera, and support for Apple Pencil. It provides a fast and fluid user experience, making it perfect for work, education, and entertainment."
+    },
+{
+      "id": 19,
+      "name": "Bluetooth Speaker",
+      "desc": "Chroma 60W Bluetooth Party Speaker",
+      "price": 499,
+      "color": "#7c95eb",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1673527158/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/250738_p6txsk.png/mxw_1920,f_auto",
+      "description": "The Razer Chroma Bluetooth Speaker is a compact and portable speaker that offers 16.8 million customizable colors and immersive 360-degree sound for an unparalleled audio experience."
+    },
+{
+      "id": 20,
+      "name": "boAt Airdopes 131 Pro",
+      "desc": "TWS Earbuds",
+      "price": 149,
+      "color": "#7c95eb",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1663946283/Croma%20Assets/Communication/Headphones%20and%20Earphones/Images/261789_gidsqx.png/mxw_1920,f_auto",
+      "description": "The boAt Airdopes 131 Pro is a pair of wireless earbuds that offer powerful 13mm drivers, IPX4 water resistance, and up to 15 hours of total playback time with the charging case. It also features touch controls for easy access to music, calls, and voice assistants."
     }
   ]
 }
