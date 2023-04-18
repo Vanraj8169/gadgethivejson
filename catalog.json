@@ -88,7 +88,7 @@
       "price": 599,
       "color": "#7c95eb",
       "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1675187965/Croma%20Assets/Communication/Wearable%20Devices/Images/260624_0_clwrr1.png/mxw_1920,f_auto",
-      "description": "The Samsung Galaxy Watch is a smartwatch that offers advanced features such as fitness tracking, smartphone notifications, and Samsung Pay. It comes in a variety of styles and sizes, and offers a long battery life and a wide range of apps to customize your experience."
+      "description": "The Samsung Galaxy Watch is a smartwatch that offers advanced features such as fitness tracking, smartphone notifications, and Samsung Pay."
     },
     {
       "id": 11,
@@ -187,7 +187,7 @@
       "price": 249,
       "color": "#7c95eb",
       "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1675181097/Croma%20Assets/Communication/Wearable%20Devices/Images/242907_0_bytsa3.png/mxw_1024,f_auto",
-      "description": "The Samsung Galaxy Watch 4 is a stylish and functional smartwatch that runs on Google Wear OS. It offers advanced health and fitness tracking, GPS, and a range of apps and widgets to keep you connected on the go."
+      "description": "The Samsung Galaxy Watch 4 is a stylish and functional smartwatch that runs on Google Wear OS. It offers advanced health and fitness tracking, GPS."
     },
     {
       "id": 22,
@@ -201,7 +201,7 @@
     {
       "id": 23,
       "name": "Bose QuietComfort 45",
-      "desc": "Bose noise-cancelling headphones with voice assistants",
+      "desc": "noise-cancelling headphones",
       "price": 329,
       "color": "#7c95eb",
       "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1674044786/Croma%20Assets/Communication/Headphones%20and%20Earphones/Images/250472_0_yyz45g.png/mxw_1024,f_auto",
@@ -223,7 +223,7 @@
       "price": 999,
       "color": "#7c95eb",
       "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1666277576/Croma%20Assets/Computers%20Peripherals/Tablets%20and%20iPads/Images/257191_13_y9xkai.png/mxw_1920,f_auto",
-      "description": "The Microsoft Surface Laptop 4 is a powerful and stylish ultrabook that features AMD Ryzen processors, up to 16GB of RAM, and a stunning 13.5-inch PixelSense touchscreen display. It's perfect for work or play on the go."
+      "description": "The Microsoft Surface Laptop 4 is a powerful and stylish ultrabook that features AMD Ryzen processors, up to 16GB of RAM, and a stunning 13.5-inch PixelSense touchscreen display."
     },
     {
       "id": 26,
@@ -232,7 +232,7 @@
       "price": 1199,
       "color": "#7c95eb",
       "image": "https://www.nvidia.com/content/dam/en-zz/Solutions/shop/1532541-gf-web-dmo-graphics-cards-3090-594x308.png",
-      "description": "The Nvidia GeForce RTX 3080 Ti is a high-end graphics card that offers advanced ray tracing and DLSS technology, 12GB of GDDR6X memory, and stunning 4K gaming performance. It's perfect for serious gamers who demand the best performance and image quality."
+      "description": "The Nvidia GeForce RTX 3080 Ti is a high-end graphics card that offers advanced ray tracing and DLSS technology, 12GB of GDDR6X memory, and stunning 4K gaming performance."
     },
     {
       "id": 27,
@@ -246,7 +246,7 @@
     {
       "id": 28,
       "name": "Amazon Echo Show 15",
-      "desc": "Alexa-enabled smart display with 15-inch touchscreen",
+      "desc": "Alexa-enabled smart display",
       "price": 319,
       "color": "#7c95eb",
       "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1677049478/Croma%20Assets/Small%20Appliances/Smart%20Home%20Devices/Images/269863_s0iqr5.png/mxw_1024,f_auto",
@@ -255,11 +255,11 @@
     {
       "id": 29,
       "name": "Samsung Galaxy Tab S8",
-      "desc": "Samsung tablet with 11-inch Super AMOLED display",
+      "desc": "11-inch Super AMOLED display",
       "price": 799,
       "color": "#7c95eb",
       "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1667848645/Croma%20Assets/Computers%20Peripherals/Tablets%20and%20iPads/Images/248923_0_canzvf.png/mxw_1024,f_auto",
-      "description": "The Samsung Galaxy Tab S8 is a high-end tablet that features an 11-inch Super AMOLED display, 5G connectivity, and up to 1TB of storage. It also offers a powerful Qualcomm Snapdragon processor and S Pen support for note-taking and drawing."
+      "description": "The Samsung Galaxy Tab S8 is a high-end tablet that features an 11-inch Super AMOLED display, 5G connectivity, and up to 1TB of storage."
     },
     {
       "id": 30,
@@ -273,11 +273,11 @@
     {
       "id": 31,
       "name": "Garmin Forerunner 955",
-      "desc": "GPS running watch with advanced workout features",
+      "desc": "GPS running watch",
       "price": 699,
       "color": "#7c95eb",
       "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1666207667/Croma%20Assets/Communication/Wearable%20Devices/Images/263471_3_hgvr1h.png/mxw_1024,f_auto",
-      "description": "The Garmin Forerunner 955 is a high-end GPS running watch that offers advanced workout features, including VO2 max, training load, and recovery time. It also features up to 2 weeks of battery life, music storage, and smart notifications."
+      "description": "The Garmin Forerunner 955 is a high-end GPS running watch that offers advanced workout features, including VO2 max, training load, and recovery time."
     },
     {
       "id": 32,
@@ -291,7 +291,7 @@
     {
       "id": 33,
       "name": "Logitech MX Master 3",
-      "desc": "Wireless mouse with advanced ergonomic design",
+      "desc": "Wireless mouse",
       "price": 99,
       "color": "#7c95eb",
       "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1681404219/Croma%20Assets/Computers%20Peripherals/Computer%20Accessories%20and%20Tablets%20Accessories/Images/258454_0_rmm57f.png/mxw_1024,f_auto",
@@ -322,16 +322,16 @@
       "price": 999,
       "color": "#7c95eb",
       "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1666277576/Croma%20Assets/Computers%20Peripherals/Tablets%20and%20iPads/Images/257191_13_y9xkai.png/mxw_1920,f_auto",
-      "description": "The Microsoft Surface Laptop 4 is an ultra-thin laptop with a touchscreen display, up to 19 hours of battery life, and powerful Intel or AMD processors. It also features a comfortable keyboard and a sleek, stylish design."
+      "description": "The Microsoft Surface Laptop 4 is an ultra-thin laptop with a touchscreen display, up to 19 hours of battery life, and powerful Intel or AMD processors."
     },
     {
       "id": 37,
       "name": "Samsung Galaxy S22 Ultra",
-      "desc": "Samsung flagship smartphone with 108MP camera",
+      "desc": "Smartphone with 108MP camera",
       "price": 1299,
       "color": "#7c95eb",
       "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1662439540/Croma%20Assets/Communication/Mobiles/Images/248910_le7z4e.png/mxw_1024,f_auto",
-      "description": "The Samsung Galaxy S22 Ultra is a flagship smartphone with a 108MP camera, 5G connectivity, and a large, vibrant display. It features a powerful Exynos processor, up to 12GB of RAM, and up to 1TB of storage."
+      "description": "It features a powerful Exynos processor, up to 12GB of RAM, and up to 1TB of storage."
     },
     {
       "id": 38,
@@ -358,7 +358,7 @@
       "price": 2499,
       "color": "#7c95eb",
       "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1664412987/Croma%20Assets/Computers%20Peripherals/Laptop/Images/256606_0_t9riu8.png/mxw_1024,f_auto",
-      "description": "The Apple MacBook Pro 16-inch (2021) is a powerful laptop with a choice of M1 Pro or M1 Max chip, up to 64GB of RAM, and up to 8TB of storage. It features a stunning Retina display, immersive audio, and a redesigned keyboard and Touch Bar."
+      "description": "The Apple MacBook Pro 16-inch (2021) is a powerful laptop with a choice of M1 Pro or M1 Max chip, up to 64GB of RAM, and up to 8TB of storage. "
     },
     {
       "id": 41,
@@ -372,11 +372,11 @@
     {
       "id": 42,
       "name": "Bose QuietComfort Earbuds",
-      "desc": "Wireless earbuds with noise-canceling technology",
+      "desc": "Wireless earbuds",
       "price": 279,
       "color": "#7c95eb",
       "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1605271535/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/8991748030494.png/mxw_1024,f_auto",
-      "description": "The Bose QuietComfort Earbuds are wireless earbuds with noise-canceling technology and up to 6 hours of battery life. They feature touch controls, IPX4 water resistance, and a comfortable, secure fit."
+      "description": "The Bose QuietComfort Earbuds are wireless earbuds with noise-canceling technology and up to 6 hours of battery life."
     },
     {
       "id": 43,
@@ -390,7 +390,7 @@
     {
       "id": 44,
       "name": "GoPro HERO10 Black",
-      "desc": "Action camera with HyperSmooth 4.0 stabilization",
+      "desc": "camera with HyperSmooth 4.0 stabilization",
       "price": 499,
       "color": "#7c95eb",
       "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1670425933/Croma%20Assets/Imaging/Camera%20and%20Camcorders/Images/245216_0_lx8nyh.png/mxw_1024,f_auto",
@@ -412,7 +412,7 @@
       "price": 3499,
       "color": "#7c95eb",
       "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1637921659/Croma%20Assets/Imaging/Camera%20and%20Camcorders/Images/244230_xmtobp.png/mxw_1024,f_auto",
-      "description": "The Sony A7S III is a professional-grade mirrorless camera designed for video production. It features a 12.1MP sensor, 4K/120fps video recording, and 16-bit RAW output. It also includes advanced autofocus."
+      "description": "The Sony A7S III is a professional-grade mirrorless camera designed for video production. It features a 12.1MP sensor, 4K/120fps video recording, and 16-bit RAW output."
     },
     {
       "id": 47,
@@ -430,25 +430,25 @@
       "price": 999,
       "color": "#7c95eb",
       "image": "https://stormsend1.djicdn.com/tpc/uploads/spu/cover/5e41e7a3caed3fe35ada2822224f94a8@retina_small.png",
-      "description": "The DJI Mavic Air 2S is a professional-grade drone with 5.4K video recording, 3-axis gimbal stabilization, and up to 31 minutes of flight time. It also features APAS 4.0 obstacle avoidance, ActiveTrack 4.0 subject tracking, and a range of smart features like MasterShots and QuickShots."
+      "description": "The DJI Mavic Air 2S is a professional-grade drone with 5.4K video recording, 3-axis gimbal stabilization, and up to 31 minutes of flight time."
     },
     {
       "id": 49,
       "name": "Logitech G Pro X Wireless",
-      "desc": "Wireless gaming headset with Blue VO!CE technology",
+      "desc": "gaming headset with Blue VO!CE technology",
       "price": 199,
       "color": "#7c95eb",
       "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1681404986/Croma%20Assets/Computers%20Peripherals/Computer%20Accessories%20and%20Tablets%20Accessories/Images/259523_0_pqxcu7.png/mxw_1024,f_auto",
-      "description": "The Logitech G Pro X Wireless is a wireless gaming headset with Blue VO!CE technology for crystal-clear communication. It features 50mm PRO-G drivers for immersive sound, memory foam earpads for comfort, and a lightweight design for long gaming sessions."
+      "description": "The Logitech G Pro X Wireless is a wireless gaming headset with Blue VO!CE technology for crystal-clear communication."
     },
     {
       "id": 50,
       "name": "Bowers & Wilkins PX7 Carbon Edition",
-      "desc": "Wireless noise-canceling headphones with carbon fiber finish",
+      "desc": "Wireless headphones with carbon fiber finish",
       "price": 399,
       "color": "#7c95eb",
       "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1624462083/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/235232_ip2k4f.png/mxw_1024,f_auto",
-      "description": "The Bowers & Wilkins PX7 Carbon Edition is a wireless noise-canceling headphones with a carbon fiber finish for a premium look and feel. It features 43mm drivers for rich, detailed sound, up to 30 hours of battery life, and support for high-quality Bluetooth codecs like aptX HD."
+      "description": "The Bowers & Wilkins PX7 Carbon Edition is a wireless noise-canceling headphones with a carbon fiber finish for a premium look and feel."
     }
   ]
 }
