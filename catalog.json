@@ -105,7 +105,7 @@
       "desc": "Mini Drone with Dual Camera",
       "price": 69,
       "color": "#7c95eb",
-      "image": "https://sc04.alicdn.com/kf/H5391fcfd5c504c49ba1cbd15000719bcB.jpg",
+      "image": "https://e7.pngegg.com/pngimages/138/82/png-clipart-3d-robotics-unmanned-aerial-vehicle-gopro-quadcopter-px4-autopilot-drones-electronics-mode-of-transport.png",
       "description": "A mini drone is a small and portable remote-controlled drone that can fit in the palm of your hand. It offers features such as a built-in camera, altitude hold, and automatic obstacle avoidance"
     },
     {
@@ -223,7 +223,7 @@
       "price": 999,
       "color": "#7c95eb",
       "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1666277576/Croma%20Assets/Computers%20Peripherals/Tablets%20and%20iPads/Images/257191_13_y9xkai.png/mxw_1920,f_auto",
-      "description": "The Microsoft Surface Laptop 4 is a powerful and stylish ultrabook that features AMD Ryzen processors, up to 16GB of RAM, and a stunning 13.5-inch PixelSense touchscreen display."
+      "description": "The Microsoft Surface Laptop 4 is a powerful and stylish ultrabook that features AMD Ryzen processors, up to 16GB of RAM."
     },
     {
       "id": 26,
@@ -232,7 +232,7 @@
       "price": 1199,
       "color": "#7c95eb",
       "image": "https://www.nvidia.com/content/dam/en-zz/Solutions/shop/1532541-gf-web-dmo-graphics-cards-3090-594x308.png",
-      "description": "The Nvidia GeForce RTX 3080 Ti is a high-end graphics card that offers advanced ray tracing and DLSS technology, 12GB of GDDR6X memory, and stunning 4K gaming performance."
+      "description": "The Nvidia GeForce RTX 3080 Ti is a high-end graphics card that offers advanced ray tracing and DLSS technology."
     },
     {
       "id": 27,
@@ -390,7 +390,7 @@
     {
       "id": 44,
       "name": "GoPro HERO10 Black",
-      "desc": "camera with HyperSmooth 4.0 stabilization",
+      "desc": "HyperSmooth 4.0 stabilization",
       "price": 499,
       "color": "#7c95eb",
       "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1670425933/Croma%20Assets/Imaging/Camera%20and%20Camcorders/Images/245216_0_lx8nyh.png/mxw_1024,f_auto",
@@ -403,7 +403,7 @@
       "price": 1449,
       "color": "#7c95eb",
       "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1663416344/Croma%20Assets/Computers%20Peripherals/Laptop/Images/252373_0_nwas4k.png/mxw_1024,f_auto",
-      "description": "The Lenovo ThinkPad X1 Carbon is a business laptop with 11th Gen Intel processors, up to 16GB of RAM, and up to 2TB of SSD storage. It features a durable, lightweight design, a 14-inch HDR display, and a built-in webcam cover for enhanced privacy."
+      "description": "The Lenovo ThinkPad X1 Carbon is a business laptop with 11th Gen Intel processors, up to 16GB of RAM, and up to 2TB of SSD storage."
     },
     {
       "id": 46,
